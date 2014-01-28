@@ -1,0 +1,12 @@
+{
+  "name": "piface",
+  "version": "0.0.0",
+  "description": "Driver for I/O on the element14 PiFace I/O card for RaspberryPi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Peter Westley",
+  "license": "MIT"
+}
